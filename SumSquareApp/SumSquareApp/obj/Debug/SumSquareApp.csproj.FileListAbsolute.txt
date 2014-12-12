@@ -1,0 +1,6 @@
+F:\Mrs. Ha-mim\SumSquareApp\SumSquareApp\bin\Debug\SumSquareApp.exe.config
+F:\Mrs. Ha-mim\SumSquareApp\SumSquareApp\bin\Debug\SumSquareApp.exe
+F:\Mrs. Ha-mim\SumSquareApp\SumSquareApp\bin\Debug\SumSquareApp.pdb
+F:\Mrs. Ha-mim\SumSquareApp\SumSquareApp\obj\Debug\SumSquareApp.csprojResolveAssemblyReference.cache
+F:\Mrs. Ha-mim\SumSquareApp\SumSquareApp\obj\Debug\SumSquareApp.exe
+F:\Mrs. Ha-mim\SumSquareApp\SumSquareApp\obj\Debug\SumSquareApp.pdb

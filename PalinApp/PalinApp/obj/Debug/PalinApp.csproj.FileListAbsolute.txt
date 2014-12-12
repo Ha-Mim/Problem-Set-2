@@ -1,0 +1,10 @@
+E:\HelloWorldApp\PalinApp\PalinApp\bin\Debug\PalinApp.exe.config
+E:\HelloWorldApp\PalinApp\PalinApp\bin\Debug\PalinApp.exe
+E:\HelloWorldApp\PalinApp\PalinApp\bin\Debug\PalinApp.pdb
+E:\HelloWorldApp\PalinApp\PalinApp\obj\Debug\PalinApp.exe
+E:\HelloWorldApp\PalinApp\PalinApp\obj\Debug\PalinApp.pdb
+H:\HelloWorldApp\PalinApp\PalinApp\bin\Debug\PalinApp.exe.config
+H:\HelloWorldApp\PalinApp\PalinApp\obj\Debug\PalinApp.exe
+H:\HelloWorldApp\PalinApp\PalinApp\obj\Debug\PalinApp.pdb
+H:\HelloWorldApp\PalinApp\PalinApp\bin\Debug\PalinApp.exe
+H:\HelloWorldApp\PalinApp\PalinApp\bin\Debug\PalinApp.pdb

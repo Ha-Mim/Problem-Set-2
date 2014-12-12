@@ -1,0 +1,6 @@
+F:\Mrs. Ha-mim\PrimeApp\PrimeApp\bin\Debug\PrimeApp.exe.config
+F:\Mrs. Ha-mim\PrimeApp\PrimeApp\bin\Debug\PrimeApp.exe
+F:\Mrs. Ha-mim\PrimeApp\PrimeApp\bin\Debug\PrimeApp.pdb
+F:\Mrs. Ha-mim\PrimeApp\PrimeApp\obj\Debug\PrimeApp.exe
+F:\Mrs. Ha-mim\PrimeApp\PrimeApp\obj\Debug\PrimeApp.pdb
+F:\Mrs. Ha-mim\PrimeApp\PrimeApp\obj\Debug\PrimeApp.csprojResolveAssemblyReference.cache

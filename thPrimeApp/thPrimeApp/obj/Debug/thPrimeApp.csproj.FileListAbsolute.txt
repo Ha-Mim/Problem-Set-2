@@ -1,0 +1,5 @@
+F:\Mrs. Ha-mim\thPrimeApp\thPrimeApp\bin\Debug\thPrimeApp.exe.config
+F:\Mrs. Ha-mim\thPrimeApp\thPrimeApp\bin\Debug\thPrimeApp.exe
+F:\Mrs. Ha-mim\thPrimeApp\thPrimeApp\bin\Debug\thPrimeApp.pdb
+F:\Mrs. Ha-mim\thPrimeApp\thPrimeApp\obj\Debug\thPrimeApp.exe
+F:\Mrs. Ha-mim\thPrimeApp\thPrimeApp\obj\Debug\thPrimeApp.pdb

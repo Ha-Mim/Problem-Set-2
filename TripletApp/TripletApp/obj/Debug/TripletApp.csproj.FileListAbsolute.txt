@@ -1,0 +1,5 @@
+F:\Mrs. Ha-mim\TripletApp\TripletApp\bin\Debug\TripletApp.exe.config
+F:\Mrs. Ha-mim\TripletApp\TripletApp\bin\Debug\TripletApp.exe
+F:\Mrs. Ha-mim\TripletApp\TripletApp\bin\Debug\TripletApp.pdb
+F:\Mrs. Ha-mim\TripletApp\TripletApp\obj\Debug\TripletApp.exe
+F:\Mrs. Ha-mim\TripletApp\TripletApp\obj\Debug\TripletApp.pdb

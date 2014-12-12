@@ -1,0 +1,6 @@
+F:\Mrs. Ha-mim\MultipleApplication\MultipleApplication\bin\Debug\MultipleApplication.exe.config
+F:\Mrs. Ha-mim\MultipleApplication\MultipleApplication\bin\Debug\MultipleApplication.exe
+F:\Mrs. Ha-mim\MultipleApplication\MultipleApplication\bin\Debug\MultipleApplication.pdb
+F:\Mrs. Ha-mim\MultipleApplication\MultipleApplication\obj\Debug\MultipleApplication.csprojResolveAssemblyReference.cache
+F:\Mrs. Ha-mim\MultipleApplication\MultipleApplication\obj\Debug\MultipleApplication.exe
+F:\Mrs. Ha-mim\MultipleApplication\MultipleApplication\obj\Debug\MultipleApplication.pdb

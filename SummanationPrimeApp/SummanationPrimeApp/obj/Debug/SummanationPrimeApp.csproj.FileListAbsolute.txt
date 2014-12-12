@@ -1,0 +1,5 @@
+F:\Mrs. Ha-mim\SummanationPrimeApp\SummanationPrimeApp\bin\Debug\SummanationPrimeApp.exe.config
+F:\Mrs. Ha-mim\SummanationPrimeApp\SummanationPrimeApp\bin\Debug\SummanationPrimeApp.exe
+F:\Mrs. Ha-mim\SummanationPrimeApp\SummanationPrimeApp\bin\Debug\SummanationPrimeApp.pdb
+F:\Mrs. Ha-mim\SummanationPrimeApp\SummanationPrimeApp\obj\Debug\SummanationPrimeApp.exe
+F:\Mrs. Ha-mim\SummanationPrimeApp\SummanationPrimeApp\obj\Debug\SummanationPrimeApp.pdb
